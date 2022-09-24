@@ -7,7 +7,14 @@
 
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=denisenanni&theme=vue)
 
-![image](https://activity-graph.herokuapp.com/graph?username=denisenanni&theme=minimal)
+
+
+
+![image](https://github-readme-stats.vercel.app/api?username=denisenanni)
+
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=denisenanni)
+
+![image](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdenisenanni1212%2Fhit-counter)
 
 <!--
 **denisenanni/denisenanni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
