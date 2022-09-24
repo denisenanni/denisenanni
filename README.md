@@ -7,7 +7,8 @@
 
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=denisenanni&theme=vue)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=denisenanni&theme=vue" /> 
+![image](https://activity-graph.herokuapp.com/graph?username=denisenanni&theme=minimal)
+
 <!--
 **denisenanni/denisenanni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
