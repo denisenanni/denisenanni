@@ -3,6 +3,9 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denise-nanni/)
 
 [![codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/denise_n)
+
+
+![image]({https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={denisenanni}&theme=vue})
 <!--
 **denisenanni/denisenanni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
