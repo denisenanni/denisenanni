@@ -14,20 +14,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=denisenanni&theme=darcula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=denisenanni&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=denisenanni&icon=0&color=0)](https://visitcount.itsvg.in) AAA
-
-![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=denisenanni&theme=vue)
-
-![image](https://github-readme-stats.vercel.app/api?username=denisenanni)
-
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=denisenanni)
-
-![image](https://github-profile-trophy.vercel.app/?username=denisenanni)
 
 
 
-
----
-[![](https://visitcount.itsvg.in/api?id=denisenanni&icon=0&color=0)](https://visitcount.itsvg.in)
 
