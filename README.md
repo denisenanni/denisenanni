@@ -10,8 +10,6 @@
 
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=denisenanni)
 
-![image](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdenisenanni1212%2Fhit-counter)
-
 ![image](https://github-profile-trophy.vercel.app/?username=denisenanni)
 
 <!--
